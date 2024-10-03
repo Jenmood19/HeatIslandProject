@@ -1,2 +1,2 @@
-# HeatIslandProject
-The Urban Heat Island Analysis system aims to make use of satellite imagery and image processing techniques (including georeferencing and normalisation) to visualise urban heat islands in a way which allows for more accurate and precise analysis.
+# Urban Heat Island Analysis Tool
+The Urban Heat Island Analysis system aims to make use of satellite imagery and image processing techniques (including georeferencing and normalisation) to visualise urban heat islands in a way which allows for more accurate and precise analysis. The aim of this project is to provide aid via analysis tools to communities who suffer from heat island concentrations and need further highlighting of their situations to therefore raise more awareness for the dangers of heat islands as a whole.  
