@@ -1,1 +1,3 @@
-heatEnv/
+venv/
+.venv
+.env
